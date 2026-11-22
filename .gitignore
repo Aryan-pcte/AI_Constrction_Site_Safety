@@ -1,0 +1,16 @@
+yenv/
+__pycache__/
+*.pyc
+
+runs/
+temp/
+dataset/
+images/
+videos/
+
+.git
+.vscode
+.idea
+
+*.avi
+*.mp4
